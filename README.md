@@ -32,7 +32,7 @@ Matrix Duplicate Finder — это приложение для работы с �
 
 1. Склонируйте репозиторий:
    ```bash
-   git clone [https://github.com/ONion-Start/QTD/tree/main/Matrixfinddubliates/matrix-duplicate-finder.git](https://github.com/ONion-Start/QT-Matrixfinddubliates)
+   git clone (https://github.com/ONion-Start/QT-Matrixfinddubliates)
    ```
 
 2. Откройте файл `Matrixfinddubliates.pro` в Qt Creator.
